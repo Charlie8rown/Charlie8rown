@@ -2,7 +2,8 @@
 - 👀 I enjoy exploring and riding my fixed gear bicycle.
 - 🌱 I currently work with JS, CSS, HTML, and Python. 
      There are a few other things but this is what I am currently working on.
-- 💞️ I’m looking to collaborate on anything I can, and put what I have learned to good use.
+- 💞️ I love to collaborate with others and work on personal projects.
+- 🤓 Always trying to learn something new. I can't help it!
                           
 <!---
 Charlie8rown/Charlie8rown is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
