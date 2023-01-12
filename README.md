@@ -1,5 +1,4 @@
 - 👋 Hello, I’m @Charlie8rown or Charles
-- 👀 I enjoy exploring and riding my fixed gear bicycle.
 - 🌱 I currently work with JS, CSS, HTML, and Python. 
      There are a few other things but this is what I am currently working on.
 - 💞️ I love to collaborate with others and work on personal projects.
