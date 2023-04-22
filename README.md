@@ -9,7 +9,8 @@
 [![Charlie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Charlie8rown)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charlie8rown&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-### Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+### Glad to see you here!
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FCharlie8rown"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FCharlie8rown&label=Visitors&countColor=%23263759" /></a>
 
 ### Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
